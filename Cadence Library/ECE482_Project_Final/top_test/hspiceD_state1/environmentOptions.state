@@ -1,0 +1,10 @@
+(envOpts autoDisplay) t
+(envOpts caseSensOption) nil
+(envOpts enable64BIT) nil
+(envOpts enableHPP) nil
+(envOpts numThreadOption) ""
+(envOpts printComments) (nil nil)
+(envOpts setTopLevelAsSubckt) nil
+(envOpts stopViewList) ("hspiceD" "spice")
+(envOpts switchViewList) ("hspiceD" "spice" "cmos_sch" "cmos.sch" "extracted" "schematic")
+(envOpts userCmdLineOption) ""

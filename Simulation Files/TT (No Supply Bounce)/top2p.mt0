@@ -1,0 +1,8 @@
+$DATA1 SOURCE='HSPICE' VERSION='K-2015.06-SP2 linux64' PARAM_COUNT=0
+.TITLE 'top level'
+ ivdd             ivc1             ivc2             ivclk           
+ ivrst            current          pvdd             temper          
+ alter#          
+ -4.172e-04       -3.597e-12       -3.552e-12        3.114e-07      
+ -6.127e-08       -4.169e-04        1.042e-03         25.0000       
+ 1               
